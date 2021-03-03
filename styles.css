@@ -163,6 +163,9 @@ footer {
 
 /* Reset ends */
 
+.badge {
+  width: 50%;
+}
 /*Hero section*/
 
 .image--cover {
@@ -457,6 +460,10 @@ li .description {
   .cards {
     margin-top: 250px;
   }
+
+  .card {
+    width: 100%;
+  }
 }
 
 @media (max-width: 768px) {
@@ -471,6 +478,7 @@ li .description {
   .card {
     padding: 15px;
     text-align: left;
+    width: 100%;
   }
   .card h2 {
     font-size: 70px;
