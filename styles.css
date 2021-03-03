@@ -166,6 +166,11 @@ footer {
 .badge {
   width: 50%;
 }
+
+.last-item {
+  padding-bottom: 20px !important;
+}
+
 /*Hero section*/
 
 .image--cover {
